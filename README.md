@@ -9,5 +9,5 @@ A simple machine learning web app that detects whether a given message is **Spam
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/sms-spam-classifier.git
+git clone https://github.com/saitejaMaydemakula/sms-spam-classifier.git
 cd sms-spam-classifier
