@@ -7,7 +7,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 ps=PorterStemmer()
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 def lower_case(sentence):
     sent=sentence.lower()
